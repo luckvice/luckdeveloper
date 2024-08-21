@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { Button } from "./ui/button";
-import  Nav  from "./nav";
+import { Button } from "./ui/Button";
+import  Nav  from "./Nav";
 const Header = () => {
   return (
     <header className="py-8 xl:py-12 text-white">
