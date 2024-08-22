@@ -20,7 +20,7 @@ I'm a passionate developer currently diving deep into the world of **React** and
 - Learn backend development to become a full-stack developer.
 
 ### 📫 How to Reach Me
-- **LinkedIn:** [[https://www.linkedin.com](https://www.linkedin.com/in/lucas-soares93/)]
+- **LinkedIn:** [[Lucas Soares - Dev](https://www.linkedin.com/in/lucas-soares93/)]
 
 ### ⚡ Fun Fact
 When I'm not coding, you can find me exploring new music genres, playing video games, or diving into a new techs.
