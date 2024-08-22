@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+"paths": {
+      "@/*": ["./*"]
+    },
+    "esModuleInterop": true,
+    "jsx": "preserve",
     "lib": [
       "dom",
       "dom.iterable",
@@ -11,11 +16,9 @@
     "noEmit": true,
     "incremental": true,
     "module": "esnext",
-    "esModuleInterop": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "jsx": "preserve",
     "plugins": [
       {
         "name": "next"
@@ -32,3 +35,4 @@
     "node_modules"
   ]
 }
+
