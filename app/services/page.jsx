@@ -7,25 +7,25 @@ import {motion} from "framer-motion"
 const services = [
   {
     num: '01',
-    tittle: 'Web Developer',
+    title: 'Web Developer',
     description: 'Criação de sites, landingpages, sistemas web/desktop',
     href: '',
   },
   {
     num: '02',
-    tittle: 'Devops',
+    title: 'Devops',
     description: 'Criação de scripts ansible, dockerfile, Sistemas operacionais em geral Windows/Linux/Android, GPC/AWS-EC2',
     href: '',
   },
   {
     num: '03',
-    tittle: 'IT Consultant',
+    title: 'IT Consultant',
     description: 'Consultor em assuntos relacionados a servidores, hardwares e segurança.',
     href: '',
   },
   {
     num: '04',
-    tittle: 'IT Security, IOT, etc.',
+    title: 'IT Security, IOT, etc.',
     description: 'Instação de firewall pfsence, EAP, AP routers etc.',
     href: '',
   },
@@ -53,7 +53,7 @@ const Services = () => {
                   </Link>
                 </div>
                 <h2 className="text-[42px] font-bold leading-none text-white
-                 group-hover:text-accent transition-all duration-500">{service.tittle}</h2>
+                 group-hover:text-accent transition-all duration-500">{service.title}</h2>
                 <p className="text-white/60">{service.description}</p>
                 <div className="border-b border-white/20 w-full"></div>
             </div>
